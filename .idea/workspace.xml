@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d22f6f74-b96e-46c9-9d3c-90bb6de96841" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Good.cl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="669" column="14" selection-start-line="669" selection-start-column="14" selection-end-line="669" selection-end-column="14" />
+              <folding>
+                <element signature="class#ASTNode#0;class#AST#0" />
+                <element signature="method#gen#0;class#ASTNode#0;class#AST#0" />
+                <element signature="class#program#0;class#AST#0" />
+                <element signature="method#program#0;class#program#0;class#AST#0" />
+                <element signature="method#getString#0;class#program#0;class#AST#0" />
+                <element signature="e#616#661#1" />
+                <element signature="method#gen#0;class#program#0;class#AST#0" />
+                <element signature="e#730#749#1" />
+                <element signature="class#class_#0;class#AST#0" />
+                <element signature="method#class_#0;class#class_#0;class#AST#0" />
+                <element signature="method#getString#0;class#class_#0;class#AST#0" />
+                <element signature="e#1136#1183#1" />
+                <element signature="method#gen#0;class#class_#0;class#AST#0" />
+                <element signature="e#1250#1269#1" />
+                <element signature="class#feature#0;class#AST#0" />
+                <element signature="method#feature#0;class#feature#0;class#AST#0" />
+                <element signature="method#getString#0;class#feature#0;class#AST#0" />
+                <element signature="method#gen#0;class#feature#0;class#AST#0" />
+                <element signature="class#method#0;class#AST#0" />
+                <element signature="method#method#0;class#method#0;class#AST#0" />
+                <element signature="method#getString#0;class#method#0;class#AST#0" />
+                <element signature="e#2044#2091#1" />
+                <element signature="class#attribute#0;class#AST#0" />
+                <element signature="method#attribute#0;class#attribute#0;class#AST#0" />
+                <element signature="method#attribute#1;class#attribute#0;class#AST#0" />
+                <element signature="method#getString#0;class#attribute#0;class#AST#0" />
+                <element signature="method#gen#0;class#attribute#0;class#AST#0" />
+                <element signature="e#2788#2859#1" />
+                <element signature="n#!!block;n#getV#0;n#attribute#0;n#AST#0" />
+                <element signature="class#formal#0;class#AST#0" />
+                <element signature="method#formal#0;class#formal#0;class#AST#0" />
+                <element signature="method#getString#0;class#formal#0;class#AST#0" />
+                <element signature="method#gen#0;class#formal#0;class#AST#0" />
+                <element signature="class#Expression#0;class#AST#0" />
+                <element signature="n#!!block;n#Expression#0;n#Expression#0;n#AST#0" />
+                <element signature="method#getString#0;class#Expression#0;class#AST#0" />
+                <element signature="n#!!block;n#eval#0;n#Expression#0;n#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#Expression#0;n#AST#0" />
+                <element signature="class#BlockOfExpr#0;class#AST#0" />
+                <element signature="method#BlockOfExpr#0;class#BlockOfExpr#0;class#AST#0" />
+                <element signature="method#getString#0;class#BlockOfExpr#0;class#AST#0" />
+                <element signature="e#3841#3881#1" />
+                <element signature="method#gen#0;class#BlockOfExpr#0;class#AST#0" />
+                <element signature="e#3984#4017#1" />
+                <element signature="n#!!block;n#getV#0;n#BlockOfExpr#0;n#AST#0" />
+                <element signature="class#ArithmeticOp#0;class#AST#0" />
+                <element signature="method#ArithmeticOp#0;class#ArithmeticOp#0;class#AST#0" />
+                <element signature="e#4511#4752#0" />
+                <element signature="method#getString#0;class#ArithmeticOp#0;class#AST#0" />
+                <element signature="method#eval#0;class#ArithmeticOp#0;class#AST#0" />
+                <element signature="e#5016#5252#0" />
+                <element signature="method#gen#0;class#ArithmeticOp#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#ArithmeticOp#0;n#AST#0" />
+                <element signature="method#IntConst#0;class#IntConst#0;class#AST#0" />
+                <element signature="method#getString#0;class#IntConst#0;class#AST#0" />
+                <element signature="n#!!block;n#eval#0;n#IntConst#0;n#AST#0" />
+                <element signature="class#RelOp#0;class#AST#0" />
+                <element signature="method#RelOp#0;class#RelOp#0;class#AST#0" />
+                <element signature="e#6195#6397#0" />
+                <element signature="method#gen#0;class#RelOp#0;class#AST#0" />
+                <element signature="method#LogOp#0;class#LogOp#0;class#AST#0" />
+                <element signature="method#getString#0;class#LogOp#0;class#AST#0" />
+                <element signature="class#Parentheses#0;class#AST#0" />
+                <element signature="method#Parentheses#0;class#Parentheses#0;class#AST#0" />
+                <element signature="method#getString#0;class#Parentheses#0;class#AST#0" />
+                <element signature="method#gen#0;class#Parentheses#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#Parentheses#0;n#AST#0" />
+                <element signature="class#If#0;class#AST#0" />
+                <element signature="method#If#0;class#If#0;class#AST#0" />
+                <element signature="method#getString#0;class#If#0;class#AST#0" />
+                <element signature="method#gen#0;class#If#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#If#0;n#AST#0" />
+                <element signature="class#While#0;class#AST#0" />
+                <element signature="method#While#0;class#While#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#While#0;n#AST#0" />
+                <element signature="method#gen#0;class#While#0;class#AST#0" />
+                <element signature="class#ObId#0;class#AST#0" />
+                <element signature="method#ObId#0;class#ObId#0;class#AST#0" />
+                <element signature="method#getString#0;class#ObId#0;class#AST#0" />
+                <element signature="method#gen#0;class#ObId#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#ObId#0;n#AST#0" />
+                <element signature="class#Assign#0;class#AST#0" />
+                <element signature="method#Assign#0;class#Assign#0;class#AST#0" />
+                <element signature="method#getString#0;class#Assign#0;class#AST#0" />
+                <element signature="method#gen#0;class#Assign#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#Assign#0;n#AST#0" />
+                <element signature="class#Str#0;class#AST#0" />
+                <element signature="method#Str#0;class#Str#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#Str#0;n#AST#0" />
+                <element signature="method#gen#0;class#Str#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#Str#0;n#AST#0" />
+                <element signature="class#Bool#0;class#AST#0" />
+                <element signature="method#Bool#0;class#Bool#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#Bool#0;n#AST#0" />
+                <element signature="method#gen#0;class#Bool#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#Bool#0;n#AST#0" />
+                <element signature="class#NewType#0;class#AST#0" />
+                <element signature="n#!!block;n#NewType#0;n#NewType#0;n#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#NewType#0;n#AST#0" />
+                <element signature="method#gen#0;class#NewType#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#NewType#0;n#AST#0" />
+                <element signature="class#IsVo#0;class#AST#0" />
+                <element signature="method#IsVo#0;class#IsVo#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#IsVo#0;n#AST#0" />
+                <element signature="method#gen#0;class#IsVo#0;class#AST#0" />
+                <element signature="n#!!block;n#getV#0;n#IsVo#0;n#AST#0" />
+                <element signature="class#Let#0;class#AST#0" />
+                <element signature="method#Let#0;class#Let#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#Let#0;n#AST#0" />
+                <element signature="method#gen#0;class#Let#0;class#AST#0" />
+                <element signature="e#11860#11980#1" />
+                <element signature="e#11883#11965#1" />
+                <element signature="n#!!block;n#getV#0;n#Let#0;n#AST#0" />
+                <element signature="e#12609#12655#1" />
+                <element signature="e#12782#12783#0" expanded="true" />
+                <element signature="e#12810#12811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/AST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="318" column="27" lean-forward="true" selection-start-line="318" selection-start-column="27" selection-end-line="318" selection-end-column="27" />
+              <folding>
+                <element signature="class#ASTNode#0;class#AST#0" />
+                <element signature="method#escapeSpecialCharacters#0;class#AST#0" />
+                <element signature="class#expression#0;class#AST#0" />
+                <element signature="n#!!block;n#expression#0;n#expression#0;n#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#expression#0;n#AST#0" />
+                <element signature="class#no_expr#0;class#AST#0" />
+                <element signature="n#!!block;n#no_expr#0;n#no_expr#0;n#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#no_expr#0;n#AST#0" />
+                <element signature="class#bool_const#0;class#AST#0" />
+                <element signature="method#bool_const#0;class#bool_const#0;class#AST#0" />
+                <element signature="method#getString#0;class#bool_const#0;class#AST#0" />
+                <element signature="method#string_const#0;class#string_const#0;class#AST#0" />
+                <element signature="method#getString#0;class#string_const#0;class#AST#0" />
+                <element signature="class#int_const#0;class#AST#0" />
+                <element signature="method#int_const#0;class#int_const#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#int_const#0;n#AST#0" />
+                <element signature="class#object#0;class#AST#0" />
+                <element signature="method#object#0;class#object#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#object#0;n#AST#0" />
+                <element signature="class#comp#0;class#AST#0" />
+                <element signature="method#comp#0;class#comp#0;class#AST#0" />
+                <element signature="method#getString#0;class#comp#0;class#AST#0" />
+                <element signature="class#eq#0;class#AST#0" />
+                <element signature="method#eq#0;class#eq#0;class#AST#0" />
+                <element signature="method#getString#0;class#eq#0;class#AST#0" />
+                <element signature="class#leq#0;class#AST#0" />
+                <element signature="method#leq#0;class#leq#0;class#AST#0" />
+                <element signature="method#getString#0;class#leq#0;class#AST#0" />
+                <element signature="class#lt#0;class#AST#0" />
+                <element signature="method#lt#0;class#lt#0;class#AST#0" />
+                <element signature="method#getString#0;class#lt#0;class#AST#0" />
+                <element signature="class#neg#0;class#AST#0" />
+                <element signature="method#neg#0;class#neg#0;class#AST#0" />
+                <element signature="method#getString#0;class#neg#0;class#AST#0" />
+                <element signature="class#divide#0;class#AST#0" />
+                <element signature="method#divide#0;class#divide#0;class#AST#0" />
+                <element signature="method#getString#0;class#divide#0;class#AST#0" />
+                <element signature="class#mul#0;class#AST#0" />
+                <element signature="method#mul#0;class#mul#0;class#AST#0" />
+                <element signature="method#getString#0;class#mul#0;class#AST#0" />
+                <element signature="class#sub#0;class#AST#0" />
+                <element signature="method#sub#0;class#sub#0;class#AST#0" />
+                <element signature="method#getString#0;class#sub#0;class#AST#0" />
+                <element signature="class#plus#0;class#AST#0" />
+                <element signature="method#plus#0;class#plus#0;class#AST#0" />
+                <element signature="method#getString#0;class#plus#0;class#AST#0" />
+                <element signature="class#isvoid#0;class#AST#0" />
+                <element signature="method#isvoid#0;class#isvoid#0;class#AST#0" />
+                <element signature="method#getString#0;class#isvoid#0;class#AST#0" />
+                <element signature="class#new_#0;class#AST#0" />
+                <element signature="method#new_#0;class#new_#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#new_#0;n#AST#0" />
+                <element signature="class#assign#0;class#AST#0" />
+                <element signature="method#assign#0;class#assign#0;class#AST#0" />
+                <element signature="method#getString#0;class#assign#0;class#AST#0" />
+                <element signature="class#block#0;class#AST#0" />
+                <element signature="method#block#0;class#block#0;class#AST#0" />
+                <element signature="method#getString#0;class#block#0;class#AST#0" />
+                <element signature="e#6841#6887#1" />
+                <element signature="class#loop#0;class#AST#0" />
+                <element signature="method#loop#0;class#loop#0;class#AST#0" />
+                <element signature="method#getString#0;class#loop#0;class#AST#0" />
+                <element signature="class#cond#0;class#AST#0" />
+                <element signature="method#cond#0;class#cond#0;class#AST#0" />
+                <element signature="method#getString#0;class#cond#0;class#AST#0" />
+                <element signature="class#let#0;class#AST#0" />
+                <element signature="method#let#0;class#let#0;class#AST#0" />
+                <element signature="method#getString#0;class#let#0;class#AST#0" />
+                <element signature="method#dispatch#0;class#dispatch#0;class#AST#0" />
+                <element signature="e#8760#8807#1" />
+                <element signature="method#static_dispatch#0;class#static_dispatch#0;class#AST#0" />
+                <element signature="e#9579#9663#1" />
+                <element signature="class#typcase#0;class#AST#0" />
+                <element signature="method#typcase#0;class#typcase#0;class#AST#0" />
+                <element signature="method#getString#0;class#typcase#0;class#AST#0" />
+                <element signature="e#10141#10187#1" />
+                <element signature="class#branch#0;class#AST#0" />
+                <element signature="method#branch#0;class#branch#0;class#AST#0" />
+                <element signature="method#getString#0;class#branch#0;class#AST#0" />
+                <element signature="class#formal#0;class#AST#0" />
+                <element signature="method#formal#0;class#formal#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#formal#0;n#AST#0" />
+                <element signature="class#feature#0;class#AST#0" />
+                <element signature="method#feature#0;class#feature#0;class#AST#0" />
+                <element signature="n#!!block;n#getString#0;n#feature#0;n#AST#0" />
+                <element signature="class#method#0;class#AST#0" />
+                <element signature="method#method#0;class#method#0;class#AST#0" />
+                <element signature="method#getString#0;class#method#0;class#AST#0" />
+                <element signature="e#11503#11548#1" />
+                <element signature="class#attr#0;class#AST#0" />
+                <element signature="method#attr#0;class#attr#0;class#AST#0" />
+                <element signature="method#getString#0;class#attr#0;class#AST#0" />
+                <element signature="class#class_#0;class#AST#0" />
+                <element signature="method#class_#0;class#class_#0;class#AST#0" />
+                <element signature="method#getString#0;class#class_#0;class#AST#0" />
+                <element signature="e#12541#12586#1" />
+                <element signature="class#program#0;class#AST#0" />
+                <element signature="method#program#0;class#program#0;class#AST#0" />
+                <element signature="method#getString#0;class#program#0;class#AST#0" />
+                <element signature="e#12915#12960#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/Good.cl-CST">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CoolParser.g4">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="259" column="7" lean-forward="true" selection-start-line="259" selection-start-column="7" selection-end-line="259" selection-end-column="7" />
+              <folding>
+                <element signature="e#65#99#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obi</find>
+      <find>object</find>
+      <find>ob</find>
+      <find>obid</find>
+      <find>assi</find>
+      <find>dispa</find>
+      <find>obI</find>
+      <find>tco</find>
+      <find>thre</find>
+      <find>formal</find>
+      <find>ArithOp</find>
+      <find>decl</find>
+      <find>three</find>
+      <find>int con</find>
+      <find>let</find>
+      <find>block</find>
+      <find>ente</find>
+      <find>if</find>
+      <find>while</find>
+      <find>goto</find>
+      <find>t</find>
+      <find>tcou</find>
+      <find>blo</find>
+      <find>got</find>
+      <find>meth</find>
+      <find>str</find>
+      <find>dis</find>
+      <find>string</find>
+      <find>gen</find>
+      <find>dispatch</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ASSIGN</replace>
+      <replace>PLUS</replace>
+      <replace>threeAddressCode</replace>
+      <replace>ArithmeticOp</replace>
+      <replace>attribute</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CoolLexer.java" />
+        <option value="$PROJECT_DIR$/test1.cl" />
+        <option value="$PROJECT_DIR$/test2.cl" />
+        <option value="$PROJECT_DIR$/bad.cl" />
+        <option value="$PROJECT_DIR$/src/CoolParser.java" />
+        <option value="$PROJECT_DIR$/gen/CoolLexer.tokens" />
+        <option value="$PROJECT_DIR$/lexer.txt" />
+        <option value="$PROJECT_DIR$/gen/CoolParserBaseVisitor.java" />
+        <option value="$PROJECT_DIR$/gen/CoolParserVisitor.java" />
+        <option value="$PROJECT_DIR$/gen/CoolParserListener.java" />
+        <option value="$PROJECT_DIR$/gen/CoolParserBaseListener.java" />
+        <option value="$PROJECT_DIR$/src/LexerTest.java" />
+        <option value="$PROJECT_DIR$/src/errorListener.java" />
+        <option value="$PROJECT_DIR$/src/throwingError.java" />
+        <option value="$PROJECT_DIR$/Test Cases/good1.cl" />
+        <option value="$PROJECT_DIR$/isprime.cl" />
+        <option value="$USER_HOME$/Downloads/COOL-Compiler-master/lexer/src/grammar/CoolLexer.g4" />
+        <option value="$PROJECT_DIR$/src/CoolLexer.g4" />
+        <option value="$USER_HOME$/Downloads/COOL-Compiler-master/parser/src/grammar/CoolParser.g4" />
+        <option value="$PROJECT_DIR$/gen/CoolParser.java" />
+        <option value="$PROJECT_DIR$/src/ParserTest.java" />
+        <option value="$USER_HOME$/Downloads/COOL-Compiler-master/semantic/src/java/cool/AST.java" />
+        <option value="$PROJECT_DIR$/src/CoolParser.g4" />
+        <option value="$PROJECT_DIR$/src/codeGen.java" />
+        <option value="$PROJECT_DIR$/Good.cl" />
+        <option value="$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/AST.java" />
+        <option value="$PROJECT_DIR$/src/AST.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lexer" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Lexer" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Lexer" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Lexer" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="COOL-Compiler-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COOL-Compiler-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COOL-Compiler-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COOL-Compiler-master" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COOL-Compiler-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COOL-Compiler-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Good.cl" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\COOL-Compiler-master\Test Cases" />
+      <recent name="E:\COOL-Compiler-master" />
+      <recent name="C:\Users\Viola\IdeaProjects\Lexer\src" />
+      <recent name="C:\Users\Viola\IdeaProjects\Lexer\gen" />
+      <recent name="C:\Users\Viola\IdeaProjects\Lexer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.codeGen">
+    <configuration name="LexerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LexerTest" />
+      <module name="Lexer" />
+      <option name="PROGRAM_PARAMETERS" value="Good.cl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <module name="Lexer" />
+      <option name="PROGRAM_PARAMETERS" value="Good.cl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LexerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeGen" />
+      <module name="Lexer" />
+      <option name="PROGRAM_PARAMETERS" value="Good.cl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeGen" />
+      <module name="Lexer" />
+      <option name="PROGRAM_PARAMETERS" value="Good.cl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LexerTest" />
+      <item itemvalue="Application.codeGen" />
+      <item itemvalue="Application.ParserTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.codeGen" />
+        <item itemvalue="Application.ParserTest" />
+        <item itemvalue="Application.LexerTest" />
+        <item itemvalue="Application.codeGen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d22f6f74-b96e-46c9-9d3c-90bb6de96841" name="Default Changelist" comment="" />
+      <created>1555431610430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555431610430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18461539" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48502025" visible="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5125506" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48663968" weight="0.3250444" />
+      <window_info anchor="bottom" id="Tool Output" order="11" sideWeight="0.4874494" weight="0.3927928" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="12" sideWeight="0.49959514" weight="0.5381883" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32955465" />
+      <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18461539" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49959514" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48502025" visible="true" weight="0.38010657" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5125506" side_tool="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48663968" weight="0.3250444" />
+      <window_info anchor="bottom" id="Tool Output" order="11" sideWeight="0.4874494" weight="0.3927928" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="12" sideWeight="0.49959514" weight="0.5381883" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32955465" />
+      <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../antlr4-runtime-4.7.2.jar!/org/antlr/v4/runtime/CommonTokenStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParserBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParserVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParserListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParserBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolLexer.interp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1451">
+          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output1.cl-lex" />
+    <entry file="file://$PROJECT_DIR$/output1.txt" />
+    <entry file="file://$PROJECT_DIR$/test1.cl-cst" />
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="jar://$PROJECT_DIR$/../antlr4-runtime-4.7.2.jar!/org/antlr/v4/runtime/tree/ParseTree.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../antlr4-runtime-4.7.2.jar!/org/antlr/v4/runtime/Token.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexer.txt" />
+    <entry file="file://$PROJECT_DIR$/gen/CoolParser.interp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParser.tokens">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser.cl-lex" />
+    <entry file="file://$PROJECT_DIR$/output/test.cl-CST" />
+    <entry file="file://$PROJECT_DIR$/parser.txt" />
+    <entry file="file://$PROJECT_DIR$/output/good1.cl-CST" />
+    <entry file="file://$PROJECT_DIR$/output/good1.cl-lex" />
+    <entry file="file://$PROJECT_DIR$/gen/CoolLexer.tokens">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LexerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/errorListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/throwingError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/CodegenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1259" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/SemanticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1156" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/Semantic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9804" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/lexer/src/grammar/CoolLexer.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="63" column="23" lean-forward="true" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <folding>
+            <element signature="e#370#410#0" />
+            <element signature="e#1974#2008#0" />
+            <element signature="e#2027#2284#1" />
+            <element signature="e#2380#2523#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Good.cl-lex" />
+    <entry file="file://$PROJECT_DIR$/gen/CoolLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/isprime.cl-CST" />
+    <entry file="file://$PROJECT_DIR$/Test Cases/bad2.cl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/bad1.cl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoolLexer.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/parser/src/java/cool/AST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="314" column="13" selection-start-line="314" selection-start-column="13" selection-end-line="314" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/parser/src/grammar/CoolParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="191" column="9" lean-forward="true" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/CoolParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="588" column="23" selection-start-line="588" selection-start-column="23" selection-end-line="588" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isprime.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/semantic/src/java/cool/AST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="348" column="23" lean-forward="true" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
+          <folding>
+            <element signature="class#ASTNode#0;class#AST#0" />
+            <element signature="method#escapeSpecialCharacters#0;class#AST#0" />
+            <element signature="class#expression#0;class#AST#0" />
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="n#!!block;n#expression#0;n#expression#0;n#AST#0" />
+            <element signature="e#1327#1328#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="n#!!block;n#getString#0;n#expression#0;n#AST#0" />
+            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="class#no_expr#0;class#AST#0" />
+            <element signature="n#!!block;n#no_expr#0;n#no_expr#0;n#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#no_expr#0;n#AST#0" />
+            <element signature="class#bool_const#0;class#AST#0" />
+            <element signature="method#bool_const#0;class#bool_const#0;class#AST#0" />
+            <element signature="method#getString#0;class#bool_const#0;class#AST#0" />
+            <element signature="class#string_const#0;class#AST#0" />
+            <element signature="method#string_const#0;class#string_const#0;class#AST#0" />
+            <element signature="method#getString#0;class#string_const#0;class#AST#0" />
+            <element signature="class#int_const#0;class#AST#0" />
+            <element signature="method#int_const#0;class#int_const#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#int_const#0;n#AST#0" />
+            <element signature="class#object#0;class#AST#0" />
+            <element signature="method#object#0;class#object#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#object#0;n#AST#0" />
+            <element signature="class#comp#0;class#AST#0" />
+            <element signature="method#comp#0;class#comp#0;class#AST#0" />
+            <element signature="method#getString#0;class#comp#0;class#AST#0" />
+            <element signature="class#eq#0;class#AST#0" />
+            <element signature="class#leq#0;class#AST#0" />
+            <element signature="class#lt#0;class#AST#0" />
+            <element signature="class#neg#0;class#AST#0" />
+            <element signature="class#divide#0;class#AST#0" />
+            <element signature="method#divide#0;class#divide#0;class#AST#0" />
+            <element signature="method#getString#0;class#divide#0;class#AST#0" />
+            <element signature="class#mul#0;class#AST#0" />
+            <element signature="method#mul#0;class#mul#0;class#AST#0" />
+            <element signature="method#getString#0;class#mul#0;class#AST#0" />
+            <element signature="class#sub#0;class#AST#0" />
+            <element signature="method#sub#0;class#sub#0;class#AST#0" />
+            <element signature="method#getString#0;class#sub#0;class#AST#0" />
+            <element signature="class#plus#0;class#AST#0" />
+            <element signature="method#plus#0;class#plus#0;class#AST#0" />
+            <element signature="method#getString#0;class#plus#0;class#AST#0" />
+            <element signature="class#isvoid#0;class#AST#0" />
+            <element signature="method#isvoid#0;class#isvoid#0;class#AST#0" />
+            <element signature="method#getString#0;class#isvoid#0;class#AST#0" />
+            <element signature="class#new_#0;class#AST#0" />
+            <element signature="method#new_#0;class#new_#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#new_#0;n#AST#0" />
+            <element signature="class#assign#0;class#AST#0" />
+            <element signature="method#assign#0;class#assign#0;class#AST#0" />
+            <element signature="method#getString#0;class#assign#0;class#AST#0" />
+            <element signature="class#block#0;class#AST#0" />
+            <element signature="method#block#0;class#block#0;class#AST#0" />
+            <element signature="method#getString#0;class#block#0;class#AST#0" />
+            <element signature="class#loop#0;class#AST#0" />
+            <element signature="method#loop#0;class#loop#0;class#AST#0" />
+            <element signature="method#getString#0;class#loop#0;class#AST#0" />
+            <element signature="class#cond#0;class#AST#0" />
+            <element signature="class#let#0;class#AST#0" />
+            <element signature="method#let#0;class#let#0;class#AST#0" />
+            <element signature="method#getString#0;class#let#0;class#AST#0" />
+            <element signature="class#dispatch#0;class#AST#0" />
+            <element signature="method#dispatch#0;class#dispatch#0;class#AST#0" />
+            <element signature="method#getString#0;class#dispatch#0;class#AST#0" />
+            <element signature="class#static_dispatch#0;class#AST#0" />
+            <element signature="method#static_dispatch#0;class#static_dispatch#0;class#AST#0" />
+            <element signature="method#getString#0;class#static_dispatch#0;class#AST#0" />
+            <element signature="class#typcase#0;class#AST#0" />
+            <element signature="method#typcase#0;class#typcase#0;class#AST#0" />
+            <element signature="method#getString#0;class#typcase#0;class#AST#0" />
+            <element signature="class#feature#0;class#AST#0" />
+            <element signature="method#feature#0;class#feature#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#feature#0;n#AST#0" />
+            <element signature="class#method#0;class#AST#0" />
+            <element signature="class#attr#0;class#AST#0" />
+            <element signature="method#attr#0;class#attr#0;class#AST#0" />
+            <element signature="method#getString#0;class#attr#0;class#AST#0" />
+            <element signature="class#class_#0;class#AST#0" />
+            <element signature="method#class_#0;class#class_#0;class#AST#0" />
+            <element signature="method#getString#0;class#class_#0;class#AST#0" />
+            <element signature="class#program#0;class#AST#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/test.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/good3.cl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/good2.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/good1.cl-ast">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Cases/good1.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CoolParser.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="259" column="7" lean-forward="true" selection-start-line="259" selection-start-column="7" selection-end-line="259" selection-end-column="7" />
+          <folding>
+            <element signature="e#65#99#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="669" column="14" selection-start-line="669" selection-start-column="14" selection-end-line="669" selection-end-column="14" />
+          <folding>
+            <element signature="class#ASTNode#0;class#AST#0" />
+            <element signature="method#gen#0;class#ASTNode#0;class#AST#0" />
+            <element signature="class#program#0;class#AST#0" />
+            <element signature="method#program#0;class#program#0;class#AST#0" />
+            <element signature="method#getString#0;class#program#0;class#AST#0" />
+            <element signature="e#616#661#1" />
+            <element signature="method#gen#0;class#program#0;class#AST#0" />
+            <element signature="e#730#749#1" />
+            <element signature="class#class_#0;class#AST#0" />
+            <element signature="method#class_#0;class#class_#0;class#AST#0" />
+            <element signature="method#getString#0;class#class_#0;class#AST#0" />
+            <element signature="e#1136#1183#1" />
+            <element signature="method#gen#0;class#class_#0;class#AST#0" />
+            <element signature="e#1250#1269#1" />
+            <element signature="class#feature#0;class#AST#0" />
+            <element signature="method#feature#0;class#feature#0;class#AST#0" />
+            <element signature="method#getString#0;class#feature#0;class#AST#0" />
+            <element signature="method#gen#0;class#feature#0;class#AST#0" />
+            <element signature="class#method#0;class#AST#0" />
+            <element signature="method#method#0;class#method#0;class#AST#0" />
+            <element signature="method#getString#0;class#method#0;class#AST#0" />
+            <element signature="e#2044#2091#1" />
+            <element signature="class#attribute#0;class#AST#0" />
+            <element signature="method#attribute#0;class#attribute#0;class#AST#0" />
+            <element signature="method#attribute#1;class#attribute#0;class#AST#0" />
+            <element signature="method#getString#0;class#attribute#0;class#AST#0" />
+            <element signature="method#gen#0;class#attribute#0;class#AST#0" />
+            <element signature="e#2788#2859#1" />
+            <element signature="n#!!block;n#getV#0;n#attribute#0;n#AST#0" />
+            <element signature="class#formal#0;class#AST#0" />
+            <element signature="method#formal#0;class#formal#0;class#AST#0" />
+            <element signature="method#getString#0;class#formal#0;class#AST#0" />
+            <element signature="method#gen#0;class#formal#0;class#AST#0" />
+            <element signature="class#Expression#0;class#AST#0" />
+            <element signature="n#!!block;n#Expression#0;n#Expression#0;n#AST#0" />
+            <element signature="method#getString#0;class#Expression#0;class#AST#0" />
+            <element signature="n#!!block;n#eval#0;n#Expression#0;n#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#Expression#0;n#AST#0" />
+            <element signature="class#BlockOfExpr#0;class#AST#0" />
+            <element signature="method#BlockOfExpr#0;class#BlockOfExpr#0;class#AST#0" />
+            <element signature="method#getString#0;class#BlockOfExpr#0;class#AST#0" />
+            <element signature="e#3841#3881#1" />
+            <element signature="method#gen#0;class#BlockOfExpr#0;class#AST#0" />
+            <element signature="e#3984#4017#1" />
+            <element signature="n#!!block;n#getV#0;n#BlockOfExpr#0;n#AST#0" />
+            <element signature="class#ArithmeticOp#0;class#AST#0" />
+            <element signature="method#ArithmeticOp#0;class#ArithmeticOp#0;class#AST#0" />
+            <element signature="e#4511#4752#0" />
+            <element signature="method#getString#0;class#ArithmeticOp#0;class#AST#0" />
+            <element signature="method#eval#0;class#ArithmeticOp#0;class#AST#0" />
+            <element signature="e#5016#5252#0" />
+            <element signature="method#gen#0;class#ArithmeticOp#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#ArithmeticOp#0;n#AST#0" />
+            <element signature="method#IntConst#0;class#IntConst#0;class#AST#0" />
+            <element signature="method#getString#0;class#IntConst#0;class#AST#0" />
+            <element signature="n#!!block;n#eval#0;n#IntConst#0;n#AST#0" />
+            <element signature="class#RelOp#0;class#AST#0" />
+            <element signature="method#RelOp#0;class#RelOp#0;class#AST#0" />
+            <element signature="e#6195#6397#0" />
+            <element signature="method#gen#0;class#RelOp#0;class#AST#0" />
+            <element signature="method#LogOp#0;class#LogOp#0;class#AST#0" />
+            <element signature="method#getString#0;class#LogOp#0;class#AST#0" />
+            <element signature="class#Parentheses#0;class#AST#0" />
+            <element signature="method#Parentheses#0;class#Parentheses#0;class#AST#0" />
+            <element signature="method#getString#0;class#Parentheses#0;class#AST#0" />
+            <element signature="method#gen#0;class#Parentheses#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#Parentheses#0;n#AST#0" />
+            <element signature="class#If#0;class#AST#0" />
+            <element signature="method#If#0;class#If#0;class#AST#0" />
+            <element signature="method#getString#0;class#If#0;class#AST#0" />
+            <element signature="method#gen#0;class#If#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#If#0;n#AST#0" />
+            <element signature="class#While#0;class#AST#0" />
+            <element signature="method#While#0;class#While#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#While#0;n#AST#0" />
+            <element signature="method#gen#0;class#While#0;class#AST#0" />
+            <element signature="class#ObId#0;class#AST#0" />
+            <element signature="method#ObId#0;class#ObId#0;class#AST#0" />
+            <element signature="method#getString#0;class#ObId#0;class#AST#0" />
+            <element signature="method#gen#0;class#ObId#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#ObId#0;n#AST#0" />
+            <element signature="class#Assign#0;class#AST#0" />
+            <element signature="method#Assign#0;class#Assign#0;class#AST#0" />
+            <element signature="method#getString#0;class#Assign#0;class#AST#0" />
+            <element signature="method#gen#0;class#Assign#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#Assign#0;n#AST#0" />
+            <element signature="class#Str#0;class#AST#0" />
+            <element signature="method#Str#0;class#Str#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#Str#0;n#AST#0" />
+            <element signature="method#gen#0;class#Str#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#Str#0;n#AST#0" />
+            <element signature="class#Bool#0;class#AST#0" />
+            <element signature="method#Bool#0;class#Bool#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#Bool#0;n#AST#0" />
+            <element signature="method#gen#0;class#Bool#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#Bool#0;n#AST#0" />
+            <element signature="class#NewType#0;class#AST#0" />
+            <element signature="n#!!block;n#NewType#0;n#NewType#0;n#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#NewType#0;n#AST#0" />
+            <element signature="method#gen#0;class#NewType#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#NewType#0;n#AST#0" />
+            <element signature="class#IsVo#0;class#AST#0" />
+            <element signature="method#IsVo#0;class#IsVo#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#IsVo#0;n#AST#0" />
+            <element signature="method#gen#0;class#IsVo#0;class#AST#0" />
+            <element signature="n#!!block;n#getV#0;n#IsVo#0;n#AST#0" />
+            <element signature="class#Let#0;class#AST#0" />
+            <element signature="method#Let#0;class#Let#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#Let#0;n#AST#0" />
+            <element signature="method#gen#0;class#Let#0;class#AST#0" />
+            <element signature="e#11860#11980#1" />
+            <element signature="e#11883#11965#1" />
+            <element signature="n#!!block;n#getV#0;n#Let#0;n#AST#0" />
+            <element signature="e#12609#12655#1" />
+            <element signature="e#12782#12783#0" expanded="true" />
+            <element signature="e#12810#12811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/Good.cl-CST">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/COOL-Compiler-master/codegen/src/java/cool/AST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="318" column="27" lean-forward="true" selection-start-line="318" selection-start-column="27" selection-end-line="318" selection-end-column="27" />
+          <folding>
+            <element signature="class#ASTNode#0;class#AST#0" />
+            <element signature="method#escapeSpecialCharacters#0;class#AST#0" />
+            <element signature="class#expression#0;class#AST#0" />
+            <element signature="n#!!block;n#expression#0;n#expression#0;n#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#expression#0;n#AST#0" />
+            <element signature="class#no_expr#0;class#AST#0" />
+            <element signature="n#!!block;n#no_expr#0;n#no_expr#0;n#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#no_expr#0;n#AST#0" />
+            <element signature="class#bool_const#0;class#AST#0" />
+            <element signature="method#bool_const#0;class#bool_const#0;class#AST#0" />
+            <element signature="method#getString#0;class#bool_const#0;class#AST#0" />
+            <element signature="method#string_const#0;class#string_const#0;class#AST#0" />
+            <element signature="method#getString#0;class#string_const#0;class#AST#0" />
+            <element signature="class#int_const#0;class#AST#0" />
+            <element signature="method#int_const#0;class#int_const#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#int_const#0;n#AST#0" />
+            <element signature="class#object#0;class#AST#0" />
+            <element signature="method#object#0;class#object#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#object#0;n#AST#0" />
+            <element signature="class#comp#0;class#AST#0" />
+            <element signature="method#comp#0;class#comp#0;class#AST#0" />
+            <element signature="method#getString#0;class#comp#0;class#AST#0" />
+            <element signature="class#eq#0;class#AST#0" />
+            <element signature="method#eq#0;class#eq#0;class#AST#0" />
+            <element signature="method#getString#0;class#eq#0;class#AST#0" />
+            <element signature="class#leq#0;class#AST#0" />
+            <element signature="method#leq#0;class#leq#0;class#AST#0" />
+            <element signature="method#getString#0;class#leq#0;class#AST#0" />
+            <element signature="class#lt#0;class#AST#0" />
+            <element signature="method#lt#0;class#lt#0;class#AST#0" />
+            <element signature="method#getString#0;class#lt#0;class#AST#0" />
+            <element signature="class#neg#0;class#AST#0" />
+            <element signature="method#neg#0;class#neg#0;class#AST#0" />
+            <element signature="method#getString#0;class#neg#0;class#AST#0" />
+            <element signature="class#divide#0;class#AST#0" />
+            <element signature="method#divide#0;class#divide#0;class#AST#0" />
+            <element signature="method#getString#0;class#divide#0;class#AST#0" />
+            <element signature="class#mul#0;class#AST#0" />
+            <element signature="method#mul#0;class#mul#0;class#AST#0" />
+            <element signature="method#getString#0;class#mul#0;class#AST#0" />
+            <element signature="class#sub#0;class#AST#0" />
+            <element signature="method#sub#0;class#sub#0;class#AST#0" />
+            <element signature="method#getString#0;class#sub#0;class#AST#0" />
+            <element signature="class#plus#0;class#AST#0" />
+            <element signature="method#plus#0;class#plus#0;class#AST#0" />
+            <element signature="method#getString#0;class#plus#0;class#AST#0" />
+            <element signature="class#isvoid#0;class#AST#0" />
+            <element signature="method#isvoid#0;class#isvoid#0;class#AST#0" />
+            <element signature="method#getString#0;class#isvoid#0;class#AST#0" />
+            <element signature="class#new_#0;class#AST#0" />
+            <element signature="method#new_#0;class#new_#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#new_#0;n#AST#0" />
+            <element signature="class#assign#0;class#AST#0" />
+            <element signature="method#assign#0;class#assign#0;class#AST#0" />
+            <element signature="method#getString#0;class#assign#0;class#AST#0" />
+            <element signature="class#block#0;class#AST#0" />
+            <element signature="method#block#0;class#block#0;class#AST#0" />
+            <element signature="method#getString#0;class#block#0;class#AST#0" />
+            <element signature="e#6841#6887#1" />
+            <element signature="class#loop#0;class#AST#0" />
+            <element signature="method#loop#0;class#loop#0;class#AST#0" />
+            <element signature="method#getString#0;class#loop#0;class#AST#0" />
+            <element signature="class#cond#0;class#AST#0" />
+            <element signature="method#cond#0;class#cond#0;class#AST#0" />
+            <element signature="method#getString#0;class#cond#0;class#AST#0" />
+            <element signature="class#let#0;class#AST#0" />
+            <element signature="method#let#0;class#let#0;class#AST#0" />
+            <element signature="method#getString#0;class#let#0;class#AST#0" />
+            <element signature="method#dispatch#0;class#dispatch#0;class#AST#0" />
+            <element signature="e#8760#8807#1" />
+            <element signature="method#static_dispatch#0;class#static_dispatch#0;class#AST#0" />
+            <element signature="e#9579#9663#1" />
+            <element signature="class#typcase#0;class#AST#0" />
+            <element signature="method#typcase#0;class#typcase#0;class#AST#0" />
+            <element signature="method#getString#0;class#typcase#0;class#AST#0" />
+            <element signature="e#10141#10187#1" />
+            <element signature="class#branch#0;class#AST#0" />
+            <element signature="method#branch#0;class#branch#0;class#AST#0" />
+            <element signature="method#getString#0;class#branch#0;class#AST#0" />
+            <element signature="class#formal#0;class#AST#0" />
+            <element signature="method#formal#0;class#formal#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#formal#0;n#AST#0" />
+            <element signature="class#feature#0;class#AST#0" />
+            <element signature="method#feature#0;class#feature#0;class#AST#0" />
+            <element signature="n#!!block;n#getString#0;n#feature#0;n#AST#0" />
+            <element signature="class#method#0;class#AST#0" />
+            <element signature="method#method#0;class#method#0;class#AST#0" />
+            <element signature="method#getString#0;class#method#0;class#AST#0" />
+            <element signature="e#11503#11548#1" />
+            <element signature="class#attr#0;class#AST#0" />
+            <element signature="method#attr#0;class#attr#0;class#AST#0" />
+            <element signature="method#getString#0;class#attr#0;class#AST#0" />
+            <element signature="class#class_#0;class#AST#0" />
+            <element signature="method#class_#0;class#class_#0;class#AST#0" />
+            <element signature="method#getString#0;class#class_#0;class#AST#0" />
+            <element signature="e#12541#12586#1" />
+            <element signature="class#program#0;class#AST#0" />
+            <element signature="method#program#0;class#program#0;class#AST#0" />
+            <element signature="method#getString#0;class#program#0;class#AST#0" />
+            <element signature="e#12915#12960#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Good.cl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lexer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
