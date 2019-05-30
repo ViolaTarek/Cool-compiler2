@@ -257,9 +257,10 @@ expression returns [AST.Expression value]
      	}
      	#concat
      /*ID ( [expr [[, expr]]* ]) */
-     | id=OBJECTID LPAREN expr_list = expression_list RPAREN
+    | id=OBJECTID LPAREN expr_list = expression_list RPAREN
         	{
-        		$value = new AST.dispatch(new AST.ObId("self"), $id.getText() , $expr_list.value , $id.getLine());
+        		$value = new AST.dispatch( $id.getText() , $expr_list.value );
         	}
        # methodCall
+
     ;

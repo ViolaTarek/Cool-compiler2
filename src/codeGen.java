@@ -13,8 +13,8 @@ public class codeGen {
 
     public static void main(String[] args) {
         try {
-            String TestCaseFile = args[0];
-            String OutputFile = "output/" + args[0] + "-CST";
+            String TestCaseFile = "test cases/"+args[0];
+            String OutputFile = "output/" + args[0] + "-TAC";
 
             File file = new File(OutputFile);
             file.delete();
@@ -40,6 +40,7 @@ public class codeGen {
                // System.out.println(s);
                 writer.append(s+ "\n");
             }
+            System.out.println("TAC file has generated");
             writer.close();
 
 

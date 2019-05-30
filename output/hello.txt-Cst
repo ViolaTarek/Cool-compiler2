@@ -1,0 +1,1 @@
+(program (programBlocks (classDefine class Main inherits IO { (featureList (feature (method main ( ) : Object { (expression out_string ( (expression_list (expression "Hello, world!\n")) )) })) ;) }) ;) <EOF>)

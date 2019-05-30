@@ -1,0 +1,55 @@
+main: 
+ BeginFunc
+t8 = "Enter an integer greater-than or equal-to 0: "
+Push param t8
+call out_string, 1
+pop params
+call in_int, 0
+pop params
+input = null
+t1 = input < 0
+ifFalse ( t1 ) goto A1
+t9 = "ERROR: Number must be greater-than or equal-to 0
+"
+Push param t9
+call out_string, 1
+pop params
+goto L1
+A1: 
+t10 = input
+Push param t10
+call out_int, 1
+pop params
+t11 = input
+Push param t11
+call factorial, 1
+pop params
+t12 = t11
+Push param t12
+call out_int, 1
+pop params
+t13 = "
+"
+Push param t13
+call out_string, 1
+pop params
+t2 = t13
+L1: 
+t4 = t3
+End Func main
+
+factorial: 
+ BeginFunc
+t5 = num == 0
+ifFalse ( t5 ) goto A2
+goto L2
+A2: 
+t6 = num - 1
+t14 = t6
+Push param t14
+call factorial, 1
+pop params
+t7 = num * t14
+L2: 
+End Func factorial
+

@@ -1,0 +1,49 @@
+str = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+main: 
+ BeginFunc
+t9 = "Enter number of numbers to multiply
+"
+Push param t9
+call out_string, 1
+pop params
+call in_int, 0
+pop params
+t10 = null
+Push param t10
+call prod, 1
+pop params
+t11 = t10
+Push param t11
+call out_int, 1
+pop params
+t12 = "
+"
+Push param t12
+call out_string, 1
+pop params
+t1 = t12
+End Func main
+
+prod: 
+ BeginFunc
+y = 1
+A1: 
+t2 = i == 0
+t3 = not t2
+ifFalse t3 goto L1
+t13 = "Enter Number: "
+Push param t13
+call out_string, 1
+pop params
+call in_int, 0
+pop params
+t4 = y * null
+y = t4
+t5 = i - 1
+i = t5
+t6 = i
+goto A1
+L1: 
+t7 = uninitialized
+End Func prod
+

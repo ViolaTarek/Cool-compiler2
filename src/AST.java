@@ -101,6 +101,9 @@ public class AST {
 		}
 		void gen() {
 			threeAddressCode.add(name +": " +"\n" + " BeginFunc");
+			exp.gen();
+			threeAddressCode.add("End Func "+name+"\n");
+
 		}
 
 
@@ -205,7 +208,7 @@ public class AST {
 				last = e;
 			}
 
-			threeAddressCode.add(v + " = " + last.getV()+" entered block of expressions");
+			threeAddressCode.add(v + " = " + last.getV());
 		}
 
 		@Override
@@ -487,7 +490,6 @@ public class AST {
 
 
 		void gen(){
-
 		}
 		@Override
 		String getV(){
@@ -643,16 +645,20 @@ public class AST {
 		}
 	}
 	public static class dispatch extends Expression{
+		public int lineno;
 		public Expression caller;
 		public String name;
 		public ArrayList<Expression> actuals;
 		public String v;
-
-		public dispatch(Expression v1, String n, ArrayList<Expression> a, int l){
-			caller = v1;
+		public dispatch(Expression expression,String n, ArrayList<Expression> a,int l){
+			caller=expression;
+			lineno=l;
 			name = n;
 			actuals = a;
-			lineNo = l;
+		}
+		public dispatch(String n, ArrayList<Expression> a){
+			name = n;
+			actuals = a;
 		}
 		String getString(String space){
 			String str;
@@ -661,13 +667,19 @@ public class AST {
 				str += e1.getString(space+sp)+"\n";
 			}
 			str+=space+sp+")\n"+space+": "+type;
-			threeAddressCode.add("entered dispatch");
 
 			return str;
 		}
 		void gen(){
-			caller.gen();
-			//threeAddressCode.add("entered dispatch");
+			for(Expression e: actuals){
+				e.gen();
+				v="t"+tCounter++;
+				threeAddressCode.add(v +" = " + e.getV());
+				threeAddressCode.add("Push param "+v);
+
+			}
+			threeAddressCode.add("call " + name + ", " + actuals.size());
+			threeAddressCode.add("pop params");
 		}
 
 		@Override
@@ -675,5 +687,6 @@ public class AST {
 			return v;
 		}
 	}
+
 
 }

@@ -1782,7 +1782,7 @@ public class CoolParser extends Parser {
 				setState(233);
 				match(RPAREN);
 
-				        		((MethodCallContext)_localctx).value =  new AST.dispatch(new AST.ObId("self"), ((MethodCallContext)_localctx).id.getText() , ((MethodCallContext)_localctx).expr_list.value , ((MethodCallContext)_localctx).id.getLine());
+				        		((MethodCallContext)_localctx).value =  new AST.dispatch( ((MethodCallContext)_localctx).id.getText() , ((MethodCallContext)_localctx).expr_list.value );
 				        	
 				}
 				break;

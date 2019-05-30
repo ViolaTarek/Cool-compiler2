@@ -1,0 +1,9 @@
+main: 
+ BeginFunc
+t1 = "Hello, world!
+"
+Push param t1
+call out_string, 1
+pop params
+End Func main
+
